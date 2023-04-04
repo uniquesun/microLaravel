@@ -1,7 +1,6 @@
 # 前言
 本人学习PHP框架的小demo
 麻雀虽小五脏俱全，现代框架的大部分功能都有
-代码大多来源教程：https://www.kancloud.cn/learnku_/framework/1834349
 
 # 功能
 - [x] IOC -- 完成
